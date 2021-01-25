@@ -12,3 +12,5 @@ type of computing hardware, proficiency of the programmer, optimization in the c
 structures, etc. In the end, the function we come up with will be independent of the actual number of bytes needed to represent the unit.
  Space complexity is sometimes ignored because the space used is minimal and/or obvious, but sometimes it becomes as important an issue 
 as time. 
+
+This is a change

@@ -254,3 +254,5 @@ increases for quicksort. Merge sort accesses data sequentially and the need of r
 
 2.Inversion Count Problem  
 3.Used in External Sorting
+
+I made a change
